@@ -94,6 +94,10 @@
                                 <argLine>@{argLine}</argLine>
                             </configuration>
                         </plugin>  
+
+                       </plugin>
+			
+
                 </plugins>
         </build>
 
